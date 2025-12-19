@@ -6,9 +6,26 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
+⚠️ DEPRECATED: This plugin is no longer actively maintained as of December 19, 2025. Please migrate to Global Payments for WooCommerce.
+
 This management terminal exposes limited functionality to manage transactions through your WordPress installation.
 
 == Description ==
+
+⚠️ **DEPRECATION NOTICE**
+
+This plugin is deprecated as of December 19, 2025 and is no longer actively maintained.
+
+**Please migrate to Global Payments for WooCommerce:**
+https://wordpress.org/plugins/globalpayments-gateway-provider-for-woocommerce/
+
+For more information:
+* Global Payments Developer Portal: https://developer.globalpay.com/
+* Support: https://developer.globalpay.com/support
+
+**Rationale:** This plugin is being deprecated as part of the transition from Heartland Payment Systems to Global Payments. The Global Payments solution offers enhanced security, broader payment method support, active development, and improved integration with modern WordPress and WooCommerce versions.
+
+---
 
 This plugin allows merchants to manage transactions.
 

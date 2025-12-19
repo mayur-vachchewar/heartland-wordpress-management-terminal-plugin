@@ -1,5 +1,29 @@
 # Heartland Management Terminal WordPress Plugin
 
+## ⚠️ DEPRECATION NOTICE
+
+**This plugin is deprecated as of December 19, 2025 and is no longer actively maintained.**
+
+### Migration Path
+
+Please migrate to the **Global Payments WordPress solution** for continued support and enhanced features:
+
+👉 **[Global Payments for WooCommerce](https://wordpress.org/plugins/globalpayments-gateway-provider-for-woocommerce/)**
+
+For general WordPress payment integration, please visit:
+- [Global Payments Developer Portal](https://developer.globalpay.com/)
+- [Global Payments Support](https://developer.globalpay.com/support)
+
+### Rationale
+
+This plugin is being deprecated as part of the transition from Heartland Payment Systems to Global Payments. The Global Payments solution offers:
+- Enhanced security features
+- Broader payment method support
+- Active development and support
+- Improved integration with modern WordPress and WooCommerce versions
+
+---
+
 This management terminal exposes limited functionality to manage transactions through your WordPress installation. Current functionality may not be a one-to-one match for Portico Virtual Terminal.
 
 ## Description
